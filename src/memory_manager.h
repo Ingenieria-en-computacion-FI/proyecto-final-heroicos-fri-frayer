@@ -49,3 +49,4 @@ void liberar_lista_memoria(MemoryBlock* cabeza);
 void imprimir_mapa_memoria(MemoryBlock* cabeza);
 
 #endif // MEMORY_MANAGER_H
+
