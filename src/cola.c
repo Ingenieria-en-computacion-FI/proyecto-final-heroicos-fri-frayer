@@ -48,3 +48,4 @@ Process desencolar(cola* c) {
     free(temporal);
     return p;
 }
+}
