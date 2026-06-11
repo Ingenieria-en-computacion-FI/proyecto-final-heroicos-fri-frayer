@@ -9,3 +9,4 @@
 void ejecutar_sjf(Process procesos[], int n, lista_enlazada* lista_finalizada, pila* historial);
 
 #endif // SJF_H
+
