@@ -29,3 +29,4 @@ void encolar(cola* c, Process p);
 Process desencolar(cola* c);
 
 #endif // COLA_H
+
