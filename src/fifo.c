@@ -19,3 +19,4 @@ void ejecutar_fifo(cola* cola_listos, lista_enlazada* lista_finalizada, pila* hi
         insertar_ordenado_por_pid(lista_finalizada, p);
     }
 }
+
