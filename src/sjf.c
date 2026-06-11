@@ -41,3 +41,4 @@ void ejecutar_sjf(Process procesos[], int n, lista_enlazada* lista_finalizada, p
         }
     }
 }
+
