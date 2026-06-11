@@ -282,3 +282,4 @@ void imprimir_mapa_memoria(MemoryBlock* cabeza) {
     }
     printf("\n");
 }
+
