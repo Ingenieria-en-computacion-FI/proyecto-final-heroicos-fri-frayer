@@ -36,3 +36,4 @@ void insertar_ordenado_por_pid(lista_enlazada* lista, Process p) {
     nuevo_nodo->siguiente = actual->siguiente;
     actual->siguiente = nuevo_nodo;
 }
+
