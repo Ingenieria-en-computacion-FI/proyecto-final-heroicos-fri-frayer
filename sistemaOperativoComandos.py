@@ -20,6 +20,7 @@ def boot_os():
          Universidad Nacional Autonoma de Mexico
 
         Luisa Cristina Carranza Mendez
+        Miranda Agreda Rafael Alejandro
         Morales Paredes Eric Aaron
         
     ================================================={RESET}
