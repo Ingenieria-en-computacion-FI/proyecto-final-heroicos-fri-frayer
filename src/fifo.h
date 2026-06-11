@@ -9,3 +9,4 @@
 void ejecutar_fifo(cola* cola_listos, lista_enlazada* lista_finalizada, pila* historial);
 
 #endif // FIFO_H
+
