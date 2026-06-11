@@ -30,3 +30,4 @@ bool encolar_cc(cola_circular* cc, Process p);
 Process desencolar_cc(cola_circular* cc);
 
 #endif // COLA_CIRCULAR_H
+
