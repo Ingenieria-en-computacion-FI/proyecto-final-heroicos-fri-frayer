@@ -41,3 +41,5 @@ int cargar_procesos_desde_csv(const char* nombre_archivo, Process procesos[], in
     fclose(file);
     return count;
 }
+
+
