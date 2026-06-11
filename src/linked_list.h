@@ -25,3 +25,4 @@ bool esta_lista_vacia(lista_enlazada* lista);
 void insertar_ordenado_por_pid(lista_enlazada* lista, Process p);
 
 #endif // LINKED_LIST_H
+
